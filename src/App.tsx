@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Earth_pic from "./assets/Earth.jpg";
-import { AnimatePresence, delay, motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
  import{ Navbar } from "./components/Navbar.tsx"
 
 
